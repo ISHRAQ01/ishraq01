@@ -14,8 +14,8 @@
 `PostgreSQL` `MongoDB` `Redis` `Docker` `AWS` `Tailwind CSS`
 
 **Featured Projects:**
-- 🧠 AI Assessment Creator - Live Demo | Source
-- 🏭 Warehouse Management System - Live Demo | Source  
+- 🧠 AI Assessment Creator - vedaai-toolkit.vercel.app | Source
+- 🏭 Warehouse Management System - wms-java.vercel.app | Source  
 - 🚛 Fleet Route Optimization - Source | API Docs
 
 📫 Reach me: ishraq0641@gmail.com | [LinkedIn] https://www.linkedin.com/in/ishraq-saifi/ 
