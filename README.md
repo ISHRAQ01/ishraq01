@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there 👋 I'm Ishraq Saifi
 
-<!--
-**ISHRAQ01/ishraq01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Backend & Full-Stack Developer**
 
-Here are some ideas to get you started:
+- 🔭 Built [AI Assessment Platform](link) — 500K+ monthly operations
+- 💼 Intern Software Engineer @ Infotact Solutions & SoftGrowTech
+- ☁️ AWS Certified Cloud Practitioner
+- 📝 Published Research: Ethereum in Property Management
+- 🧠 150+ LeetCode problems solved
+- 📍 Open to Remote & Delhi-NCR | Immediate Joiner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech Stack:**
+`Java` `Spring Boot` `Next.js` `React` `Node.js` `TypeScript` 
+`PostgreSQL` `MongoDB` `Redis` `Docker` `AWS` `Tailwind CSS`
+
+**Featured Projects:**
+- 🧠 AI Assessment Creator - Live Demo | Source
+- 🏭 Warehouse Management System - Live Demo | Source  
+- 🚛 Fleet Route Optimization - Source | API Docs
+
+📫 Reach me: ishraq0641@gmail.com | [LinkedIn] https://www.linkedin.com/in/ishraq-saifi/ 
